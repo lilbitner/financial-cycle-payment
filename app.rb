@@ -7,40 +7,66 @@ require('json')
 file = File.read('example_data_candidate.json')
 parsed_file = JSON.parse(file)
 
-p parsed_file
+# p parsed_file
 
-def depth_first_search(source_index)
-
-    data_hash = {} 
+def depth_first_search(source_index, end_index, parsed_file)
+    
     parsed_file.each_with_index do |account, index|
-    data_hash[account["accountId"]] = account["outboundTransferTotals"]
+        if account["inboundTransfersTotals"].empty? && account["outboundTransferTotals"].empty? 
+          parsed_file.delete_at(index)
+        end 
     end 
 
-    node_stack = data_hash[source_index]["outboundTransferTotals"]
+    data_hash = {} 
+    parsed_file.each do |account| 
+        data_hash[account["accountId"]] = account["outboundTransferTotals"]
+    end 
+
+
+    node_stack = [source_index]
+    visited = []
+    
+  
   
     loop do
-      curr_node = node_stack.pop
-      if curr_node == nil
-        return find_paths(parsed_file) #here we want to move on to next account to look at paths, because no loop found 
-        if curr_node == source_index
-            return node_stack
-  
-      children = (0..data_hash.length-1).to_a.select do |i| 
-       data_hash[curr_node][i] == 1
-      end
-  
-      node_stack = node_stack + children
+      curr_node = node_stack.shift
+      return false if curr_node == nil  
+      return node_stack if visited.include?(curr_node)
+      visited.push(curr_node) 
+
+
+    array = []
+    data_hash[curr_node].each do |transfer| 
+       array.push(transfer["receivingAccountId"].to_i)
+    end 
+
+   
+    node_stack = node_stack.concat(array)
+    p node_stack
+    
+      
     end
+
   end
 
 
-  def find_paths(parsed_file)
 
+  def find_paths(parsed_file)
+    parsed_file.each_with_index do |account, index|
+        if account["inboundTransfersTotals"].empty? && account["outboundTransferTotals"].empty? 
+          parsed_file.delete_at(index)
+        end 
+      end 
     parsed_file.each do |account|
-    source_index = account["accountId"]
-        depth_first_search(source_index)
+        source_index = account["accountId"] 
+    end_index = 123475
+        depth_first_search(source_index, end_index, parsed_file)
+    end 
+
 
   end 
+
+  find_paths(parsed_file)
 
   
 
