@@ -1,0 +1,1110 @@
+[
+    {
+        "accountId": 123456,
+        "inboundTransfersTotals": [
+            {
+                "sendingAccountId": "123478",
+                "quantity": 5259.86
+            },
+            {
+                "sendingAccountId": "123463",
+                "quantity": 12902.94
+            },
+            {
+                "sendingAccountId": "123483",
+                "quantity": 2527.55
+            },
+            {
+                "sendingAccountId": "123467",
+                "quantity": 12531.44
+            },
+            {
+                "sendingAccountId": "123477",
+                "quantity": 13067.88
+            }
+        ],
+        "outboundTransferTotals": [
+            {
+                "receivingAccountId": "123486",
+                "quantity": 18360.12
+            }
+        ]
+    },
+    {
+        "accountId": 123457,
+        "inboundTransfersTotals": [],
+        "outboundTransferTotals": []
+    },
+    {
+        "accountId": 123458,
+        "inboundTransfersTotals": [
+            {
+                "sendingAccountId": "123489",
+                "quantity": 13864.77
+            },
+            {
+                "sendingAccountId": "123463",
+                "quantity": 8171.17
+            },
+            {
+                "sendingAccountId": "123472",
+                "quantity": 6572.03
+            },
+            {
+                "sendingAccountId": "123498",
+                "quantity": 18158.37
+            },
+            {
+                "sendingAccountId": "123470",
+                "quantity": 3184.59
+            }
+        ],
+        "outboundTransferTotals": [
+            {
+                "receivingAccountId": "123464",
+                "quantity": 1291.58
+            },
+            {
+                "receivingAccountId": "123486",
+                "quantity": 3648
+            }
+        ]
+    },
+    {
+        "accountId": 123459,
+        "inboundTransfersTotals": [
+            {
+                "sendingAccountId": "123497",
+                "quantity": 12845.44
+            },
+            {
+                "sendingAccountId": "123486",
+                "quantity": 17898.36
+            }
+        ],
+        "outboundTransferTotals": [
+            {
+                "receivingAccountId": "123475",
+                "quantity": 8800.62
+            }
+        ]
+    },
+    {
+        "accountId": 123460,
+        "inboundTransfersTotals": [
+            {
+                "sendingAccountId": "123497",
+                "quantity": 5598.99
+            },
+            {
+                "sendingAccountId": "123482",
+                "quantity": 7300.66
+            }
+        ],
+        "outboundTransferTotals": [
+            {
+                "receivingAccountId": "123475",
+                "quantity": 8812.9
+            },
+            {
+                "receivingAccountId": "123474",
+                "quantity": 7856.39
+            },
+            {
+                "receivingAccountId": "123499",
+                "quantity": 8306.39
+            }
+        ]
+    },
+    {
+        "accountId": 123461,
+        "inboundTransfersTotals": [
+            {
+                "sendingAccountId": "123464",
+                "quantity": 2878.02
+            },
+            {
+                "sendingAccountId": "123461",
+                "quantity": 4038.06
+            }
+        ],
+        "outboundTransferTotals": [
+            {
+                "receivingAccountId": "123461",
+                "quantity": 4038.06
+            }
+        ]
+    },
+    {
+        "accountId": 123462,
+        "inboundTransfersTotals": [
+            {
+                "sendingAccountId": "123471",
+                "quantity": 5483.21
+            },
+            {
+                "sendingAccountId": "123463",
+                "quantity": 18394.42
+            },
+            {
+                "sendingAccountId": "123502",
+                "quantity": 4602.38
+            }
+        ],
+        "outboundTransferTotals": [
+            {
+                "receivingAccountId": "123476",
+                "quantity": 829.94
+            },
+            {
+                "receivingAccountId": "123478",
+                "quantity": 3560.79
+            }
+        ]
+    },
+    {
+        "accountId": 123463,
+        "inboundTransfersTotals": [
+            {
+                "sendingAccountId": "123471",
+                "quantity": 5401.57
+            },
+            {
+                "sendingAccountId": "123496",
+                "quantity": 11713
+            },
+            {
+                "sendingAccountId": "123478",
+                "quantity": 648.58
+            }
+        ],
+        "outboundTransferTotals": [
+            {
+                "receivingAccountId": "123456",
+                "quantity": 12902.94
+            },
+            {
+                "receivingAccountId": "123458",
+                "quantity": 8171.17
+            },
+            {
+                "receivingAccountId": "123462",
+                "quantity": 18394.42
+            },
+            {
+                "receivingAccountId": "123501",
+                "quantity": 13834.56
+            }
+        ]
+    },
+    {
+        "accountId": 123464,
+        "inboundTransfersTotals": [
+            {
+                "sendingAccountId": "123483",
+                "quantity": 3742.98
+            },
+            {
+                "sendingAccountId": "123458",
+                "quantity": 1291.58
+            }
+        ],
+        "outboundTransferTotals": [
+            {
+                "receivingAccountId": "123475",
+                "quantity": 13421.45
+            },
+            {
+                "receivingAccountId": "123479",
+                "quantity": 3439.27
+            },
+            {
+                "receivingAccountId": "123482",
+                "quantity": 3644.78
+            },
+            {
+                "receivingAccountId": "123496",
+                "quantity": 8955.16
+            },
+            {
+                "receivingAccountId": "123461",
+                "quantity": 2878.02
+            }
+        ]
+    },
+    {
+        "accountId": 123465,
+        "inboundTransfersTotals": [
+            {
+                "sendingAccountId": "123489",
+                "quantity": 5549.82
+            }
+        ],
+        "outboundTransferTotals": [
+            {
+                "receivingAccountId": "123490",
+                "quantity": 2627.35
+            },
+            {
+                "receivingAccountId": "123499",
+                "quantity": 5130.29
+            }
+        ]
+    },
+    {
+        "accountId": 123466,
+        "inboundTransfersTotals": [
+            {
+                "sendingAccountId": "123497",
+                "quantity": 6202.63
+            },
+            {
+                "sendingAccountId": "123481",
+                "quantity": 10836.88
+            }
+        ],
+        "outboundTransferTotals": [
+            {
+                "receivingAccountId": "123467",
+                "quantity": 5656.08
+            },
+            {
+                "receivingAccountId": "123469",
+                "quantity": 6639.93
+            }
+        ]
+    },
+    {
+        "accountId": 123467,
+        "inboundTransfersTotals": [
+            {
+                "sendingAccountId": "123466",
+                "quantity": 5656.08
+            },
+            {
+                "sendingAccountId": "123497",
+                "quantity": 2553.81
+            }
+        ],
+        "outboundTransferTotals": [
+            {
+                "receivingAccountId": "123489",
+                "quantity": 11798.83
+            },
+            {
+                "receivingAccountId": "123456",
+                "quantity": 12531.44
+            },
+            {
+                "receivingAccountId": "123475",
+                "quantity": 10695.15
+            }
+        ]
+    },
+    {
+        "accountId": 123468,
+        "inboundTransfersTotals": [],
+        "outboundTransferTotals": []
+    },
+    {
+        "accountId": 123469,
+        "inboundTransfersTotals": [
+            {
+                "sendingAccountId": "123466",
+                "quantity": 6639.93
+            },
+            {
+                "sendingAccountId": "123479",
+                "quantity": 10013.13
+            },
+            {
+                "sendingAccountId": "123498",
+                "quantity": 8846.92
+            }
+        ],
+        "outboundTransferTotals": []
+    },
+    {
+        "accountId": 123470,
+        "inboundTransfersTotals": [
+            {
+                "sendingAccountId": "123502",
+                "quantity": 4159.15
+            },
+            {
+                "sendingAccountId": "123470",
+                "quantity": 7708.88
+            },
+            {
+                "sendingAccountId": "123493",
+                "quantity": 4865.88
+            }
+        ],
+        "outboundTransferTotals": [
+            {
+                "receivingAccountId": "123470",
+                "quantity": 7708.88
+            },
+            {
+                "receivingAccountId": "123458",
+                "quantity": 3184.59
+            },
+            {
+                "receivingAccountId": "123483",
+                "quantity": 7905.96
+            }
+        ]
+    },
+    {
+        "accountId": 123471,
+        "inboundTransfersTotals": [],
+        "outboundTransferTotals": [
+            {
+                "receivingAccountId": "123504",
+                "quantity": 7782.61
+            },
+            {
+                "receivingAccountId": "123463",
+                "quantity": 5401.57
+            },
+            {
+                "receivingAccountId": "123462",
+                "quantity": 5483.21
+            }
+        ]
+    },
+    {
+        "accountId": 123472,
+        "inboundTransfersTotals": [],
+        "outboundTransferTotals": [
+            {
+                "receivingAccountId": "123495",
+                "quantity": 10468.47
+            },
+            {
+                "receivingAccountId": "123500",
+                "quantity": 4120.87
+            },
+            {
+                "receivingAccountId": "123458",
+                "quantity": 6572.03
+            }
+        ]
+    },
+    {
+        "accountId": 123473,
+        "inboundTransfersTotals": [
+            {
+                "sendingAccountId": "123505",
+                "quantity": 5130.02
+            }
+        ],
+        "outboundTransferTotals": [
+            {
+                "receivingAccountId": "123503",
+                "quantity": 441.78
+            }
+        ]
+    },
+    {
+        "accountId": 123474,
+        "inboundTransfersTotals": [
+            {
+                "sendingAccountId": "123478",
+                "quantity": 7530.19
+            },
+            {
+                "sendingAccountId": "123460",
+                "quantity": 7856.39
+            }
+        ],
+        "outboundTransferTotals": []
+    },
+    {
+        "accountId": 123475,
+        "inboundTransfersTotals": [
+            {
+                "sendingAccountId": "123459",
+                "quantity": 8800.62
+            },
+            {
+                "sendingAccountId": "123467",
+                "quantity": 10695.15
+            },
+            {
+                "sendingAccountId": "123460",
+                "quantity": 8812.9
+            },
+            {
+                "sendingAccountId": "123464",
+                "quantity": 13421.45
+            }
+        ],
+        "outboundTransferTotals": [
+            {
+                "receivingAccountId": "123477",
+                "quantity": 3874.43
+            }
+        ]
+    },
+    {
+        "accountId": 123476,
+        "inboundTransfersTotals": [
+            {
+                "sendingAccountId": "123462",
+                "quantity": 829.94
+            }
+        ],
+        "outboundTransferTotals": [
+            {
+                "receivingAccountId": "123499",
+                "quantity": 256.04
+            }
+        ]
+    },
+    {
+        "accountId": 123477,
+        "inboundTransfersTotals": [
+            {
+                "sendingAccountId": "123475",
+                "quantity": 3874.43
+            },
+            {
+                "sendingAccountId": "123505",
+                "quantity": 1589.74
+            },
+            {
+                "sendingAccountId": "123490",
+                "quantity": 8917.67
+            }
+        ],
+        "outboundTransferTotals": [
+            {
+                "receivingAccountId": "123456",
+                "quantity": 13067.88
+            },
+            {
+                "receivingAccountId": "123492",
+                "quantity": 9101.08
+            }
+        ]
+    },
+    {
+        "accountId": 123478,
+        "inboundTransfersTotals": [
+            {
+                "sendingAccountId": "123462",
+                "quantity": 3560.79
+            }
+        ],
+        "outboundTransferTotals": [
+            {
+                "receivingAccountId": "123456",
+                "quantity": 5259.86
+            },
+            {
+                "receivingAccountId": "123474",
+                "quantity": 7530.19
+            },
+            {
+                "receivingAccountId": "123463",
+                "quantity": 648.58
+            },
+            {
+                "receivingAccountId": "123482",
+                "quantity": 13160.74
+            }
+        ]
+    },
+    {
+        "accountId": 123479,
+        "inboundTransfersTotals": [
+            {
+                "sendingAccountId": "123493",
+                "quantity": 1781.93
+            },
+            {
+                "sendingAccountId": "123464",
+                "quantity": 3439.27
+            },
+            {
+                "sendingAccountId": "123489",
+                "quantity": 10755.42
+            },
+            {
+                "sendingAccountId": "123479",
+                "quantity": 7229.15
+            },
+            {
+                "sendingAccountId": "123482",
+                "quantity": 6801.38
+            }
+        ],
+        "outboundTransferTotals": [
+            {
+                "receivingAccountId": "123469",
+                "quantity": 10013.13
+            },
+            {
+                "receivingAccountId": "123479",
+                "quantity": 7229.15
+            }
+        ]
+    },
+    {
+        "accountId": 123480,
+        "inboundTransfersTotals": [],
+        "outboundTransferTotals": []
+    },
+    {
+        "accountId": 123481,
+        "inboundTransfersTotals": [],
+        "outboundTransferTotals": [
+            {
+                "receivingAccountId": "123466",
+                "quantity": 10836.88
+            }
+        ]
+    },
+    {
+        "accountId": 123482,
+        "inboundTransfersTotals": [
+            {
+                "sendingAccountId": "123478",
+                "quantity": 13160.74
+            },
+            {
+                "sendingAccountId": "123464",
+                "quantity": 3644.78
+            }
+        ],
+        "outboundTransferTotals": [
+            {
+                "receivingAccountId": "123460",
+                "quantity": 7300.66
+            },
+            {
+                "receivingAccountId": "123479",
+                "quantity": 6801.38
+            },
+            {
+                "receivingAccountId": "123486",
+                "quantity": 7019.81
+            }
+        ]
+    },
+    {
+        "accountId": 123483,
+        "inboundTransfersTotals": [
+            {
+                "sendingAccountId": "123503",
+                "quantity": 8913.15
+            },
+            {
+                "sendingAccountId": "123504",
+                "quantity": 10020.17
+            },
+            {
+                "sendingAccountId": "123470",
+                "quantity": 7905.96
+            }
+        ],
+        "outboundTransferTotals": [
+            {
+                "receivingAccountId": "123456",
+                "quantity": 2527.55
+            },
+            {
+                "receivingAccountId": "123491",
+                "quantity": 2612.04
+            },
+            {
+                "receivingAccountId": "123464",
+                "quantity": 3742.98
+            }
+        ]
+    },
+    {
+        "accountId": 123484,
+        "inboundTransfersTotals": [],
+        "outboundTransferTotals": [
+            {
+                "receivingAccountId": "123492",
+                "quantity": 8641.54
+            },
+            {
+                "receivingAccountId": "123485",
+                "quantity": 5042.66
+            }
+        ]
+    },
+    {
+        "accountId": 123485,
+        "inboundTransfersTotals": [
+            {
+                "sendingAccountId": "123490",
+                "quantity": 3214.05
+            },
+            {
+                "sendingAccountId": "123484",
+                "quantity": 5042.66
+            },
+            {
+                "sendingAccountId": "123500",
+                "quantity": 6535.49
+            },
+            {
+                "sendingAccountId": "123503",
+                "quantity": 264.01
+            }
+        ],
+        "outboundTransferTotals": []
+    },
+    {
+        "accountId": 123486,
+        "inboundTransfersTotals": [
+            {
+                "sendingAccountId": "123458",
+                "quantity": 3648
+            },
+            {
+                "sendingAccountId": "123456",
+                "quantity": 18360.12
+            },
+            {
+                "sendingAccountId": "123482",
+                "quantity": 7019.81
+            }
+        ],
+        "outboundTransferTotals": [
+            {
+                "receivingAccountId": "123459",
+                "quantity": 17898.36
+            },
+            {
+                "receivingAccountId": "123496",
+                "quantity": 7351.43
+            }
+        ]
+    },
+    {
+        "accountId": 123487,
+        "inboundTransfersTotals": [],
+        "outboundTransferTotals": []
+    },
+    {
+        "accountId": 123488,
+        "inboundTransfersTotals": [],
+        "outboundTransferTotals": []
+    },
+    {
+        "accountId": 123489,
+        "inboundTransfersTotals": [
+            {
+                "sendingAccountId": "123496",
+                "quantity": 4077.87
+            },
+            {
+                "sendingAccountId": "123467",
+                "quantity": 11798.83
+            }
+        ],
+        "outboundTransferTotals": [
+            {
+                "receivingAccountId": "123458",
+                "quantity": 13864.77
+            },
+            {
+                "receivingAccountId": "123479",
+                "quantity": 10755.42
+            },
+            {
+                "receivingAccountId": "123465",
+                "quantity": 5549.82
+            },
+            {
+                "receivingAccountId": "123498",
+                "quantity": 12193.69
+            }
+        ]
+    },
+    {
+        "accountId": 123490,
+        "inboundTransfersTotals": [
+            {
+                "sendingAccountId": "123465",
+                "quantity": 2627.35
+            }
+        ],
+        "outboundTransferTotals": [
+            {
+                "receivingAccountId": "123477",
+                "quantity": 8917.67
+            },
+            {
+                "receivingAccountId": "123493",
+                "quantity": 11268.78
+            },
+            {
+                "receivingAccountId": "123485",
+                "quantity": 3214.05
+            }
+        ]
+    },
+    {
+        "accountId": 123491,
+        "inboundTransfersTotals": [
+            {
+                "sendingAccountId": "123483",
+                "quantity": 2612.04
+            },
+            {
+                "sendingAccountId": "123504",
+                "quantity": 4636.44
+            }
+        ],
+        "outboundTransferTotals": [
+            {
+                "receivingAccountId": "123494",
+                "quantity": 11336.74
+            }
+        ]
+    },
+    {
+        "accountId": 123492,
+        "inboundTransfersTotals": [
+            {
+                "sendingAccountId": "123493",
+                "quantity": 8312.1
+            },
+            {
+                "sendingAccountId": "123484",
+                "quantity": 8641.54
+            },
+            {
+                "sendingAccountId": "123494",
+                "quantity": 13134.1
+            },
+            {
+                "sendingAccountId": "123477",
+                "quantity": 9101.08
+            }
+        ],
+        "outboundTransferTotals": [
+            {
+                "receivingAccountId": "123504",
+                "quantity": 11451.57
+            }
+        ]
+    },
+    {
+        "accountId": 123493,
+        "inboundTransfersTotals": [
+            {
+                "sendingAccountId": "123490",
+                "quantity": 11268.78
+            }
+        ],
+        "outboundTransferTotals": [
+            {
+                "receivingAccountId": "123495",
+                "quantity": 2186.16
+            },
+            {
+                "receivingAccountId": "123479",
+                "quantity": 1781.93
+            },
+            {
+                "receivingAccountId": "123500",
+                "quantity": 18057.99
+            },
+            {
+                "receivingAccountId": "123470",
+                "quantity": 4865.88
+            },
+            {
+                "receivingAccountId": "123492",
+                "quantity": 8312.1
+            }
+        ]
+    },
+    {
+        "accountId": 123494,
+        "inboundTransfersTotals": [
+            {
+                "sendingAccountId": "123491",
+                "quantity": 11336.74
+            }
+        ],
+        "outboundTransferTotals": [
+            {
+                "receivingAccountId": "123492",
+                "quantity": 13134.1
+            }
+        ]
+    },
+    {
+        "accountId": 123495,
+        "inboundTransfersTotals": [
+            {
+                "sendingAccountId": "123493",
+                "quantity": 2186.16
+            },
+            {
+                "sendingAccountId": "123472",
+                "quantity": 10468.47
+            }
+        ],
+        "outboundTransferTotals": []
+    },
+    {
+        "accountId": 123496,
+        "inboundTransfersTotals": [
+            {
+                "sendingAccountId": "123464",
+                "quantity": 8955.16
+            },
+            {
+                "sendingAccountId": "123486",
+                "quantity": 7351.43
+            }
+        ],
+        "outboundTransferTotals": [
+            {
+                "receivingAccountId": "123489",
+                "quantity": 4077.87
+            },
+            {
+                "receivingAccountId": "123463",
+                "quantity": 11713
+            }
+        ]
+    },
+    {
+        "accountId": 123497,
+        "inboundTransfersTotals": [
+            {
+                "sendingAccountId": "123497",
+                "quantity": 8481.56
+            }
+        ],
+        "outboundTransferTotals": [
+            {
+                "receivingAccountId": "123466",
+                "quantity": 6202.63
+            },
+            {
+                "receivingAccountId": "123459",
+                "quantity": 12845.44
+            },
+            {
+                "receivingAccountId": "123497",
+                "quantity": 8481.56
+            },
+            {
+                "receivingAccountId": "123467",
+                "quantity": 2553.81
+            },
+            {
+                "receivingAccountId": "123460",
+                "quantity": 5598.99
+            }
+        ]
+    },
+    {
+        "accountId": 123498,
+        "inboundTransfersTotals": [
+            {
+                "sendingAccountId": "123489",
+                "quantity": 12193.69
+            },
+            {
+                "sendingAccountId": "123501",
+                "quantity": 3475.28
+            }
+        ],
+        "outboundTransferTotals": [
+            {
+                "receivingAccountId": "123458",
+                "quantity": 18158.37
+            },
+            {
+                "receivingAccountId": "123469",
+                "quantity": 8846.92
+            }
+        ]
+    },
+    {
+        "accountId": 123499,
+        "inboundTransfersTotals": [
+            {
+                "sendingAccountId": "123465",
+                "quantity": 5130.29
+            },
+            {
+                "sendingAccountId": "123460",
+                "quantity": 8306.39
+            },
+            {
+                "sendingAccountId": "123476",
+                "quantity": 256.04
+            }
+        ],
+        "outboundTransferTotals": [
+            {
+                "receivingAccountId": "123502",
+                "quantity": 1925.72
+            }
+        ]
+    },
+    {
+        "accountId": 123500,
+        "inboundTransfersTotals": [
+            {
+                "sendingAccountId": "123502",
+                "quantity": 15932.93
+            },
+            {
+                "sendingAccountId": "123493",
+                "quantity": 18057.99
+            },
+            {
+                "sendingAccountId": "123472",
+                "quantity": 4120.87
+            }
+        ],
+        "outboundTransferTotals": [
+            {
+                "receivingAccountId": "123485",
+                "quantity": 6535.49
+            }
+        ]
+    },
+    {
+        "accountId": 123501,
+        "inboundTransfersTotals": [
+            {
+                "sendingAccountId": "123463",
+                "quantity": 13834.56
+            }
+        ],
+        "outboundTransferTotals": [
+            {
+                "receivingAccountId": "123505",
+                "quantity": 10099.67
+            },
+            {
+                "receivingAccountId": "123504",
+                "quantity": 4734.97
+            },
+            {
+                "receivingAccountId": "123498",
+                "quantity": 3475.28
+            }
+        ]
+    },
+    {
+        "accountId": 123502,
+        "inboundTransfersTotals": [
+            {
+                "sendingAccountId": "123499",
+                "quantity": 1925.72
+            }
+        ],
+        "outboundTransferTotals": [
+            {
+                "receivingAccountId": "123462",
+                "quantity": 4602.38
+            },
+            {
+                "receivingAccountId": "123500",
+                "quantity": 15932.93
+            },
+            {
+                "receivingAccountId": "123470",
+                "quantity": 4159.15
+            }
+        ]
+    },
+    {
+        "accountId": 123503,
+        "inboundTransfersTotals": [
+            {
+                "sendingAccountId": "123473",
+                "quantity": 441.78
+            },
+            {
+                "sendingAccountId": "123504",
+                "quantity": 9627.73
+            }
+        ],
+        "outboundTransferTotals": [
+            {
+                "receivingAccountId": "123485",
+                "quantity": 264.01
+            },
+            {
+                "receivingAccountId": "123483",
+                "quantity": 8913.15
+            }
+        ]
+    },
+    {
+        "accountId": 123504,
+        "inboundTransfersTotals": [
+            {
+                "sendingAccountId": "123504",
+                "quantity": 6851.72
+            },
+            {
+                "sendingAccountId": "123492",
+                "quantity": 11451.57
+            },
+            {
+                "sendingAccountId": "123471",
+                "quantity": 7782.61
+            },
+            {
+                "sendingAccountId": "123501",
+                "quantity": 4734.97
+            }
+        ],
+        "outboundTransferTotals": [
+            {
+                "receivingAccountId": "123483",
+                "quantity": 10020.17
+            },
+            {
+                "receivingAccountId": "123504",
+                "quantity": 6851.72
+            },
+            {
+                "receivingAccountId": "123503",
+                "quantity": 9627.73
+            },
+            {
+                "receivingAccountId": "123491",
+                "quantity": 4636.44
+            }
+        ]
+    },
+    {
+        "accountId": 123505,
+        "inboundTransfersTotals": [
+            {
+                "sendingAccountId": "123501",
+                "quantity": 10099.67
+            }
+        ],
+        "outboundTransferTotals": [
+            {
+                "receivingAccountId": "123473",
+                "quantity": 5130.02
+            },
+            {
+                "receivingAccountId": "123477",
+                "quantity": 1589.74
+            }
+        ]
+    }
+]
